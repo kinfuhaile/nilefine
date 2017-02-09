@@ -10,8 +10,6 @@
     <version>0.8-SNAPSHOT</version>
   </parent>
   
-  
-
   <artifactId>simple-command</artifactId>
   <packaging>jar</packaging>
   <name>Multi-Spring Chapter Simple Command Line Tool</name>
