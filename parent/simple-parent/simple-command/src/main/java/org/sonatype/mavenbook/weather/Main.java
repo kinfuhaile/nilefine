@@ -12,7 +12,7 @@ import org.sonatype.mavenbook.weather.persist.LocationDAO;
 import org.sonatype.mavenbook.weather.persist.WeatherDAO;
 
 public class Main {
-
+   
 	private WeatherService weatherService;
 	private WeatherDAO weatherDAO;
 	private LocationDAO locationDAO;
